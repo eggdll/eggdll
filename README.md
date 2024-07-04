@@ -1,4 +1,4 @@
-<h1>Yo</h1>h1>
+<h1>Yo</h1>
 Im adll (or eggdll) a dumb programmer that does something sometimes
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,cloudflare,discord,dotnet,git,github,laravel,mysql,nginx,redis,visualstudio,vscode,vscodium)](https://skillicons.dev)
