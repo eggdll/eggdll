@@ -6,7 +6,7 @@ Im adll (or eggdll) a dumb programmer that does something sometimes
 ![web developer](https://img.shields.io/badge/web%20developer-8A2BE2?style=flat)
 ![](https://komarev.com/ghpvc/?username=eggdll)
 
-## shit i know
+## shit i know/use
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,cloudflare,discord,dotnet,git,github,laravel,mysql,nginx,redis,visualstudio,vscode,vscodium,windows&theme=dark)](https://skillicons.dev)
 
