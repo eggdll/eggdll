@@ -4,6 +4,7 @@ Im adll (or eggdll) a dumb programmer that does something sometimes
 ![iq none](https://img.shields.io/badge/iq-none-8A2BE2?style=flat)
 ![retarded](https://img.shields.io/badge/retarded-8A2BE2?style=flat)
 ![web developer](https://img.shields.io/badge/web%20developer-8A2BE2?style=flat)
+![](https://komarev.com/ghpvc/?username=eggdll)
 
 ## shit i know
 
